@@ -5,7 +5,7 @@ const Card = () => {
     <>
       <div className="card mt-4" style={{ width: "18rem" }}>
         <img
-          src="https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website/assets/img/big-project-image.png"
+          src="./rigo-baby.jpg"
           className="card-img-top"
           style={{ width: "18rem", height: "18rem" }}
           alt="4Geeks"
