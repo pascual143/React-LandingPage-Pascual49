@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <Newnavbar />
       <Jumbotron />
-      <div className="cards_row">
+      <div className="row">
         <Card />
         <Card />
         <Card />
